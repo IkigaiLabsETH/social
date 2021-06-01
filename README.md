@@ -1,5 +1,23 @@
 # Pepo 2.0
 
+Ambassadors are invited to contribute 30-second videos about surf destinations, using the hashtag #surftravel — and host Affif will select his favorites, he will also post snippets of podcast interviews & webtv series from iconic storytellers. Ambassadors will reply on booking requests.
+
+A mobile-only app with "channels" of topics that people can join in and video chat. As it is with any platform, there will be early adopters before the majority starts to come on. It is my hope that more people will join it because it is honestly such a liberating experience to participate in topics of interests and get insider info. Tokens are used in the app to support and thank ambassadors (each “like” automatically transfers a token to the maker), for curation and personalization, and soon for replies and messaging.
+
+The platform connects you with experts in surf travel. Ask questions: If I’m going to a surf destination and I can connect to someone there and ask tips on “where are the best places to stay?”, or ”where are the best spots?” or “what’s the best time to visit a certain surf area?”
+
+Pepo is somewhat similar to Instagram but it focuses on surf travel influencers, those with some authority, expertise and influence. As a travel expert, you can share your photos, locations and tips and tricks with everyone who follows your channel. 
+
+As a follower, you can follow different channels of your interests: surfing, healthy lifestyle or a travel channel that focuses specifically on a certain travel destination. So if you’re travelling to a new place and you need advice, you can leave a comment or ask a question to the expert. He or she will get back to you soon with answers. How great is that?
+
+> Going ahead, there will be areas where the free app, will monetise, specifically around areas like sponsored channels, and essentially what we now think of as “native advertising.” Users can be paid tokens to watch high quality 30sec ads from the iconic surf industry brands.
+
+Consider this: If you have 10 ad sets running — each to its own micro-audience — as opposed to one broad ad set targeting all your users, you can then tailor your ads and corresponding landing pages to each segment.
+
+> Specific channels provide a social interaction among like-minded people to be able to share your thoughts, ideas and stories as well as ask SBNB ambassadors about surf spots, restaurant recommendations, or simply booking your place directly through the SurfBnB owner. Channels can be private, public or secret allowing you to set the tone and audience for yours.
+
+The encouragement of sending videos to interact with one another creates a more personal experience for the user by breaking the anonymity the internet can often create.
+
 ### Check-points for build
 
 #### API / Endpoints `(src/constants/index.js)`
