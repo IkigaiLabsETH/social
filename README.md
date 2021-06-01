@@ -12,9 +12,7 @@ As a follower, you can follow different channels of your interests: surfing, hea
 
 > Going ahead, there will be areas where the free app, will monetise, specifically around areas like sponsored channels, and essentially what we now think of as “native advertising.” Users can be paid tokens to watch high quality 30sec ads from the iconic surf industry brands.
 
-Consider this: If you have 10 ad sets running — each to its own micro-audience — as opposed to one broad ad set targeting all your users, you can then tailor your ads and corresponding landing pages to each segment.
-
-> Specific channels provide a social interaction among like-minded people to be able to share your thoughts, ideas and stories as well as ask SBNB ambassadors about surf spots, restaurant recommendations, or simply booking your place directly through the SurfBnB owner. Channels can be private, public or secret allowing you to set the tone and audience for yours.
+> Specific channels provide a social interaction among like-minded people to be able to share your thoughts, ideas and stories as well as ask ambassadors about surf spots, restaurant recommendations. Channels can be private, public or secret allowing you to set the tone and audience for yours.
 
 The encouragement of sending videos to interact with one another creates a more personal experience for the user by breaking the anonymity the internet can often create.
 
