@@ -1,18 +1,32 @@
+Introducing Ikigai Labs XYZ: Elevate your lifestyle and investment portfolio with our groundbreaking Web3-enabled platform, designed to connect art aficionados and lifestyle travelers like never before.
+
+💎 ArtChannels: Unlock the world of NFTs and digital art. Our community-driven curation ensures you're always ahead of the curve. ROI: A staggering 200%, driven by our efficient CAC to CLTV ratio.
+
+🌍 Travel Circles: Experience the epitome of luxury travel through our decentralized communities. Use $Ikigai tokens for bespoke recommendations and exclusive deals.
+
+💌 Tokenized Interactions: Transform your social engagements with our $Ikigai token. Say goodbye to passive scrolling; every interaction is now a rewarding experience.
+
+📺 Sponsored Channels & Native Advertising: Seamlessly earn $Ikigai tokens through our curated advertising partnerships with iconic brands in the art and travel sectors.
+
+🔐 Privacy and Audience Control: Your data, your rules. Blockchain-verified contracts ensure transparent and secure collaborations.
+
+💰 Financial Metrics: Our robust financial model offers an ROI of 200%, with a CAC of $100 and a CLTV of $300.
+
+📈 Use of Funds & Valuation: We're allocating funds towards development (40%), marketing (30%), and operations (30%). Our valuation is strategically positioned for exponential growth, providing substantial upside for early investors.
+
 # Pepo 2.0
 
-Ambassadors are invited to contribute 30-second videos about surf destinations, using the hashtag #surftravel — and host Affif will select his favorites, he will also post snippets of podcast interviews & webtv series from iconic storytellers. Ambassadors will reply on booking requests.
+Ambassadors are invited to contribute 30-second videos about art & destinations, and AI agents will curate options, they will also assist to produce content, design and code.
 
 A mobile-only app with "channels" of topics that people can join in and video chat. As it is with any platform, there will be early adopters before the majority starts to come on. It is my hope that more people will join it because it is honestly such a liberating experience to participate in topics of interests and get insider info. Tokens are used in the app to support and thank ambassadors (each “like” automatically transfers a token to the maker), for curation and personalization, and soon for replies and messaging.
 
-The platform connects you with experts in surf travel. Ask questions: If I’m going to a surf destination and I can connect to someone there and ask tips on “where are the best places to stay?”, or ”where are the best spots?” or “what’s the best time to visit a certain surf area?”
+It is somewhat similar to Instagram but it focuses on surf travel influencers, those with some authority, expertise and influence. As a travel expert, you can share your photos, locations and tips and tricks with everyone who follows your channel. 
 
-Pepo is somewhat similar to Instagram but it focuses on surf travel influencers, those with some authority, expertise and influence. As a travel expert, you can share your photos, locations and tips and tricks with everyone who follows your channel. 
+As a follower, you can follow different channels of your interests: gen art, web3 or a travel channel that focuses specifically on a certain travel destination. So if you’re travelling to a new place and you need advice, you can leave a comment or ask a question to the expert. He or she will get back to you soon with answers. How great is that?
 
-As a follower, you can follow different channels of your interests: surfing, healthy lifestyle or a travel channel that focuses specifically on a certain travel destination. So if you’re travelling to a new place and you need advice, you can leave a comment or ask a question to the expert. He or she will get back to you soon with answers. How great is that?
+> Going ahead, there will be areas where the free app, will monetise, specifically around areas like sponsored channels, and essentially what we now think of as “native advertising.” Users can be paid tokens to watch high quality 30sec ads from the iconic industry brands.
 
-> Going ahead, there will be areas where the free app, will monetise, specifically around areas like sponsored channels, and essentially what we now think of as “native advertising.” Users can be paid tokens to watch high quality 30sec ads from the iconic surf industry brands.
-
-> Specific channels provide a social interaction among like-minded people to be able to share your thoughts, ideas and stories as well as ask ambassadors about surf spots, restaurant recommendations. Channels can be private, public or secret allowing you to set the tone and audience for yours.
+> Specific channels provide a social interaction among like-minded people to be able to share your thoughts, ideas and stories as well as ask ambassadors recommendations. Channels can be private, public or secret allowing you to set the tone and audience for yours.
 
 The encouragement of sending videos to interact with one another creates a more personal experience for the user by breaking the anonymity the internet can often create.
 
